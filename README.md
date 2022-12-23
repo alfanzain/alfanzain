@@ -24,30 +24,66 @@
 
 
 ## Stack tech 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
-</div>  
+<table align="center">
+    <tr>
+        <td align="center" width="153">
+            <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="60" /></a>
+        </td>
+        <td align="center" width="153">
+            <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" height="60" /></a>
+        </td>
+        <td align="center" width="153">
+            <a href="https://vuejs.org/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue.js" height="60" /></a>
+        </td>
+        <td align="center" width="153">
+            <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="60" /></a>
+        </td>
+        <td align="center" width="153">
+            <a href="https://angular.io/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/angular.svg" alt="Angular" height="60" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="153">
+            <a href="https://flutter.dev/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="60" /></a>
+        </td>
+        <td align="center" width="153">
+            <a href="https://codeigniter.com/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/codeigniter.svg" alt="CodeIgniter" height="60" /></a>
+        </td>
+        <td align="center" width="153">
+            <a href="https://laravel.com/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/laravel.svg" alt="Laravel" height="60" /></a>
+        </td>
+        <td align="center" width="153">
+            <a href="https://expressjs.com/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/express.svg" alt="Express.js" height="60" /></a>
+        </td>
+        <td align="center" width="153">
+            <a href="https://go.dev/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/go.svg" alt="Go" height="60" /></a>
+        </td>
+    </tr>
+</table>
 
 <br/> 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alfanzain&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfanzain&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+<p align=center>
+  <div align=center>
+    <a href="#">
+      <img width=396 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfanzain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </a>
+  </div>
+</p>
+<p align=center>
+  <div align=center>
+    <a href="#" title="Go to Source">
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=alfanzain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </a>
+  </div>
+</p>
+<p align=center>
+  <div align=center>
+    <a href="#" title="Go to Source">
+      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=alfanzain&theme=dark&hide_border=false" alt="saktinugraha" />
+    </a>
+  </div>
+  <br>
+</p>
