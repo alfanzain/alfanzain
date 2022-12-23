@@ -1,6 +1,6 @@
 ### <div align="center">Hello! 👋 I am Alfan Zain, back-end developer</div>  
   
-<br /><br /><br />
+<br />
 
 - 👨🏽‍💻 I’m currently working on [majoo.indonesia](https://www.instagram.com/majoo.indonesia) as Full Stack Engineer
   
@@ -8,10 +8,13 @@
 - ✨ I’m currently learning [Golang](https://golang.org/)  
   
 
-- 🗣️ I’m also currently learning Arabic 🐫and Japanese 🍙 languages. More to come!  
+- 🗣️ I’m also currently learning Arabic :saudi_arabia: and Japanese :jp: languages. There are more to come!  
   
 
-- 😻 Thai tea lover 🍵 Stardew Valley gamer 🎮  
+- 🍵 Thai tea lover
+
+
+- 🎮 Stardew Valley player
   
 
 - ✉️ Reach me through email alfanzainkp@gmail.com  
@@ -20,7 +23,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## Stack tech 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
