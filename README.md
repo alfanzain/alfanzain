@@ -11,7 +11,7 @@
 - 🗣️ I’m also currently learning Arabic :saudi_arabia: and Japanese :jp: languages. There are more to come!  
   
 
-- 🍵 Thai tea lover
+- 🍵 Matcha and Thai tea lover
 
 
 - 🎮 Stardew Valley player
