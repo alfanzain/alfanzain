@@ -8,7 +8,7 @@
 - ✨ I’m currently learning [Golang](https://golang.org/)  
   
 
-- 🗣️ I’m also presently learning Arabic :saudi_arabia: and Japanese :jp: languages. There are more to come!  
+- 🗣️ I’m also presently learning Arabic :saudi_arabia: and (hiatus) Japanese :jp: languages. There are more to come!  
   
 
 - 🍵 Matcha and Thai tea lover
