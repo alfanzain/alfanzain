@@ -2,7 +2,7 @@
   
 <br />
 
-- 👨🏽‍💻 I’m currently open for a new opportunity! Preferably backend engineer
+- 👨🏽‍💻 I’m currently open for a new opportunity! Preferably backend developer position
   
 
 - ✨ I’m currently learning [Golang](https://golang.org/)  
