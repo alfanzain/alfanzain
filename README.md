@@ -2,7 +2,7 @@
   
 <br />
 
-- 👨🏽‍💻 I’m currently working on [majoo.indonesia](https://www.instagram.com/majoo.indonesia) as Full Stack Engineer
+- 👨🏽‍💻 I’m currently open for a new opportunity! Preferably backend engineer
   
 
 - ✨ I’m currently learning [Golang](https://golang.org/)  
