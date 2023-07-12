@@ -1,64 +1,73 @@
-### <div align="center">Hello! 👋 I am Alfan Zain, back-end developer</div>  
+
+### <div align="center">Hello! 👋 I'm Alfan Zain, back-end developer</div>  
   
 <br />
 
-- 👨🏽‍💻 I’m currently open for a new opportunity! Preferably backend developer position
-  
+<div align="center"><b><h3>I’m currently open for a new opportunity!</h3></b>
+Preferably back-end developer position</div>
 
+<br />
+<br />
+
+- Live in <b>Ponorogo, Indonesia</b> <img
+  src="https://flagcdn.com/20x15/id.png"
+  srcset="https://flagcdn.com/40x30/id.png 2x,
+    https://flagcdn.com/60x45/id.png 3x"
+  width="20"
+  height="15"
+  alt="Indonesia">
 - ✨ I’m currently learning [Golang](https://golang.org/)  
-  
-
-- 🗣️ I’m also presently learning Arabic :saudi_arabia: and (hiatus) Japanese :jp: languages. There are more to come!  
-  
-
+- 🗣️ I’m also presently learning Arabic <img
+  src="https://flagcdn.com/20x15/sa.png"
+  srcset="https://flagcdn.com/40x30/sa.png 2x,
+    https://flagcdn.com/60x45/sa.png 3x"
+  width="20"
+  height="15"
+  alt="Saudi Arabia"> and (hiatus) Japanese <img
+  src="https://flagcdn.com/20x15/jp.png"
+  srcset="https://flagcdn.com/40x30/jp.png 2x,
+    https://flagcdn.com/60x45/jp.png 3x"
+  width="20"
+  height="15"
+  alt="Japan"> . There are more to come!  
 - 🍵 Matcha and Thai tea lover
-
-
-- 🎮 Stardew Valley player
-  
-
+- 🎮 Stardew Valley player, Hoyoverse game fans
 - ✉️ Reach me through email alfanzainkp@gmail.com  
   
 
 <br/>  
 
 
-## Stack tech 
+<h3>Helped people by code with</h3>
 <table align="center">
-    <tr>
-        <td align="center" width="153">
-            <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="60" /></a>
-        </td>
-        <td align="center" width="153">
-            <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" height="60" /></a>
-        </td>
-        <td align="center" width="153">
-            <a href="https://vuejs.org/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue.js" height="60" /></a>
-        </td>
-        <td align="center" width="153">
-            <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="60" /></a>
-        </td>
-        <td align="center" width="153">
-            <a href="https://angular.io/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/angular.svg" alt="Angular" height="60" /></a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="153">
-            <a href="https://flutter.dev/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="60" /></a>
-        </td>
-        <td align="center" width="153">
-            <a href="https://codeigniter.com/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/codeigniter.svg" alt="CodeIgniter" height="60" /></a>
-        </td>
-        <td align="center" width="153">
-            <a href="https://laravel.com/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/laravel.svg" alt="Laravel" height="60" /></a>
-        </td>
-        <td align="center" width="153">
-            <a href="https://expressjs.com/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/express.svg" alt="Express.js" height="60" /></a>
-        </td>
-        <td align="center" width="153">
-            <a href="https://go.dev/" target="_blank"><img style="margin: 20px" src="https://cdn.svgporn.com/logos/go.svg" alt="Go" height="60" /></a>
-        </td>
-    </tr>
+	<tr>
+        <th align="center" width="153">
+        Back-End
+	    </th>
+	    <th align="center" width="153">
+        Front-End
+	    </th>
+	</tr>
+	<tr>
+        <th align="center" width="153">
+	        <img alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+	        <img alt="" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+			<img alt="" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+			<img alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+			<img alt="" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+			<img alt="" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
+	  	    <img alt="" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+			<img alt="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+			<img alt="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+			<img alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+	    </th>
+	    <th align="center" width="153">
+	    	<img alt="" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+			<img alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	  	    <img alt="" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+	  	    <img alt="" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+	    </th>
+	</tr>
 </table>
 
 <br/> 
@@ -78,12 +87,4 @@
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=alfanzain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </a>
   </div>
-</p>
-<p align=center>
-  <div align=center>
-    <a href="#" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=alfanzain&theme=dark&hide_border=false" alt="saktinugraha" />
-    </a>
-  </div>
-  <br>
 </p>
