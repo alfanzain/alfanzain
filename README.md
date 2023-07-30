@@ -9,6 +9,8 @@ Preferably back-end developer position</div>
 <br />
 <br />
 
+- ✉️ Reach me through email alfanzainkp@gmail.com
+- 🏗 Wanna take a look my projects? [Check my portfolio](https://www.notion.so/alfanzain/Alfan-Zain-s-Portfolio-f021212cc2e840aba33826efc6032731)
 - Live in <b>Ponorogo, Indonesia</b> <img
   src="https://flagcdn.com/20x15/id.png"
   srcset="https://flagcdn.com/40x30/id.png 2x,
@@ -32,7 +34,6 @@ Preferably back-end developer position</div>
   alt="Japan"> . There are more to come!  
 - 🍵 Matcha and Thai tea lover
 - 🎮 Stardew Valley player, Hoyoverse game fans
-- ✉️ Reach me through email alfanzainkp@gmail.com  
   
 
 <br/>  
