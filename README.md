@@ -19,13 +19,19 @@ Preferably back-end developer position</div>
   height="15"
   alt="Indonesia">
 - ✨ I’m currently learning [Golang](https://golang.org/)  
-- 🗣️ I’m also presently learning Arabic <img
+- 🗣️ I’m also presently learning English <img
+  src="https://flagcdn.com/20x15/us.png"
+  srcset="https://flagcdn.com/40x30/us.png 2x,
+    https://flagcdn.com/60x45/us.png 3x"
+  width="20"
+  height="15"
+  alt="USA"> , (hiatus) Arabic <img
   src="https://flagcdn.com/20x15/sa.png"
   srcset="https://flagcdn.com/40x30/sa.png 2x,
     https://flagcdn.com/60x45/sa.png 3x"
   width="20"
   height="15"
-  alt="Saudi Arabia"> and (hiatus) Japanese <img
+  alt="Saudi Arabia"> , and (hiatus) Japanese <img
   src="https://flagcdn.com/20x15/jp.png"
   srcset="https://flagcdn.com/40x30/jp.png 2x,
     https://flagcdn.com/60x45/jp.png 3x"
