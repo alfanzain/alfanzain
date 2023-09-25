@@ -18,7 +18,7 @@ Preferably back-end developer position</div>
   width="20"
   height="15"
   alt="Indonesia">
-- ✨ I’m currently learning [Golang](https://golang.org/)  
+- ✨ I’m currently learning (hiatus) [Golang](https://golang.org/)  and TALL stack, yay!
 - 🗣️ I’m also presently learning English <img
   src="https://flagcdn.com/20x15/us.png"
   srcset="https://flagcdn.com/40x30/us.png 2x,
