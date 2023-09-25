@@ -1,5 +1,5 @@
 
-### <div align="center">Hello! 👋 I'm Alfan Zain, back-end developer</div>  
+<div align="center">Hello! 👋 I'm Alfan Zain, back-end developer</div>  
   
 <br />
 
@@ -80,7 +80,7 @@ Preferably back-end developer position</div>
 <br/> 
 
 
-## Github Stats  
+<h3>Github Stats</h3>  
 <p align=center>
   <div align=center>
     <a href="#">
