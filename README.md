@@ -39,7 +39,9 @@ Preferably back-end developer position</div>
   height="15"
   alt="Japan"> . There are more to come!  
 - 🍵 Matcha and Thai tea lover
+<!---
 - 🎮 Stardew Valley player, Hoyoverse game fans
+-->
   
 
 <br/>  
