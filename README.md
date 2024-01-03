@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 
 <div align="center">Hello! 👋 I'm Alfan Zain, back-end developer</div>  
   
