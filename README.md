@@ -11,8 +11,10 @@ Preferably back-end developer position</div>
 <br />
 <br />
 
-- ✉️ Reach me through email alfanzainkp@gmail.com
+- ✉️ Reach me through email alfanzainkp@gmail.
+
 - 🏗 Wanna take a look my projects? [Check my portfolio](https://www.notion.so/alfanzain/Alfan-Zain-s-Portfolio-f021212cc2e840aba33826efc6032731)
+
 - Live in <b>Ponorogo, Indonesia</b> <img
   src="https://flagcdn.com/20x15/id.png"
   srcset="https://flagcdn.com/40x30/id.png 2x,
@@ -20,7 +22,9 @@ Preferably back-end developer position</div>
   width="20"
   height="15"
   alt="Indonesia">
+  
 - ✨ I’m currently learning (hiatus) [Golang](https://golang.org/)  and TALL stack, yay!
+  
 - 🗣️ I’m also presently learning English <img
   src="https://flagcdn.com/20x15/us.png"
   srcset="https://flagcdn.com/40x30/us.png 2x,
@@ -39,11 +43,11 @@ Preferably back-end developer position</div>
     https://flagcdn.com/60x45/jp.png 3x"
   width="20"
   height="15"
-  alt="Japan"> . There are more to come!  
+  alt="Japan"> . There are more to come!
+  
 - 🍵 Matcha and Thai tea lover
-<!---
-- 🎮 Stardew Valley player, Hoyoverse game fans
--->
+
+- 🎮 Minecraft enjoyer ~
   
 
 <br/>  
