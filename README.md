@@ -11,7 +11,7 @@ Preferably back-end developer position</div>
 <br />
 <br />
 
-- ✉️ Reach me through email alfanzainkp@gmail.
+- ✉️ Reach me through email alfanzainkp@gmail.com
 
 - 🏗 Wanna take a look my projects? [Check my portfolio](https://www.notion.so/alfanzain/Alfan-Zain-s-Portfolio-f021212cc2e840aba33826efc6032731)
 
