@@ -15,7 +15,7 @@ Preferably back-end developer position</div>
 
 - 🏗 Wanna take a look my projects? [Check my portfolio](https://www.notion.so/alfanzain/Alfan-Zain-s-Portfolio-f021212cc2e840aba33826efc6032731)
 
-- Live in <b>Ponorogo, Indonesia</b> <img
+- 🏠 Live in <b>Ponorogo, Indonesia</b> <img
   src="https://flagcdn.com/20x15/id.png"
   srcset="https://flagcdn.com/40x30/id.png 2x,
     https://flagcdn.com/60x45/id.png 3x"
