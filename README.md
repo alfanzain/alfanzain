@@ -46,7 +46,7 @@ Preferably back-end developer position</div>
   
 - 🍵 Matcha and Thai tea lover
 
-- 🎮 Minecraft enjoyer - Dota 2 LEGENDary offlane player
+- 🎮 Minecraft enjoyer - Dota 2 offlane player
   
 
 <br/>  
