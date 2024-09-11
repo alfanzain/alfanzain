@@ -44,7 +44,7 @@ Preferably back-end developer position</div>
   height="15"
   alt="Japan"> . There are more to come!
   
-- 🍵 Matcha and Thai tea lover
+- 🍵 Tea lover
 
 - 🎮 Minecraft enjoyer - Dota 2 offlane player
   
