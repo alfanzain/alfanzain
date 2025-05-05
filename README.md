@@ -1,5 +1,3 @@
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
-
 <div align="center">Hello! 👋 I'm Alfan Zain, fullstack software engineer</div>  
   
 <br />
@@ -24,25 +22,7 @@ Preferably back-end developer position</div>
   
 - ✨ I’m currently learning [Golang](https://golang.org/), yay!
   
-- 🗣️ I’m also presently learning English <img
-  src="https://flagcdn.com/20x15/us.png"
-  srcset="https://flagcdn.com/40x30/us.png 2x,
-    https://flagcdn.com/60x45/us.png 3x"
-  width="20"
-  height="15"
-  alt="USA"> , (hiatus) Arabic <img
-  src="https://flagcdn.com/20x15/sa.png"
-  srcset="https://flagcdn.com/40x30/sa.png 2x,
-    https://flagcdn.com/60x45/sa.png 3x"
-  width="20"
-  height="15"
-  alt="Saudi Arabia"> , and (hiatus) Japanese <img
-  src="https://flagcdn.com/20x15/jp.png"
-  srcset="https://flagcdn.com/40x30/jp.png 2x,
-    https://flagcdn.com/60x45/jp.png 3x"
-  width="20"
-  height="15"
-  alt="Japan"> . There are more to come!
+- 🗣️ I’m also presently learning English. There are more to come!
   
 - 🍵 Tea lover
 
@@ -52,7 +32,7 @@ Preferably back-end developer position</div>
 <br/>  
 
 
-<h3>Helped people by code with</h3>
+<h3>Solve people problems with</h3>
 <table align="center">
 	<tr>
         <th align="center" width="153">
