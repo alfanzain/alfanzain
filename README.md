@@ -2,8 +2,7 @@
   
 <br />
 
-<div align="center"><b><h3>I’m currently open for a new opportunity!</h3></b>
-Preferably back-end developer position</div>
+<div align="center"><b><h3>I’m currently open for a new opportunity!</h3></b></div>
 
 <br />
 <br />
@@ -64,22 +63,3 @@ Preferably back-end developer position</div>
 	    </th>
 	</tr>
 </table>
-
-<br/> 
-
-
-<h3>Github Stats</h3>  
-<p align=center>
-  <div align=center>
-    <a href="#">
-      <img width=396 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfanzain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </a>
-  </div>
-</p>
-<p align=center>
-  <div align=center>
-    <a href="#" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=alfanzain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </a>
-  </div>
-</p>
