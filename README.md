@@ -8,6 +8,6 @@ You can reach me at alfanzainkp@gmail.com<br/>
 Or connect with me on https://linkedin.com/in/alfanzain
 <br/>
 <br/>
-Want to explore my work?? [Check my portfolio](https://s.id/alfanzainportfolio)
+Want to explore my work? [Check my portfolio](https://s.id/alfanzainportfolio)
 <br/>
 I’d love to share a few projects and contributions that mean the most to me 👇
