@@ -1,6 +1,6 @@
 ### Hello! I'm Alfan Zain
 
-I’m a software engineer building scalable web applications, API services, and cloud-based solutions. <br/> Passionate about clean architecture, problem solving, and delivering impact through technology.
+I’m a software engineer who enjoys building scalable web applications, API services, and cloud-based solutions. <br/> Passionate about problem solving and delivering impact through technology.
 
 <h4>I’m open to new opportunities that allow me to contribute my skills, collaborate with great teams, and keep pushing boundaries in technology.</h4>
 
