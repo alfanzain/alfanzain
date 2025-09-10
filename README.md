@@ -5,6 +5,7 @@ I’m a software engineer who enjoys building scalable web applications, API ser
 <h4>I’m open to new opportunities that allow me to contribute my skills, collaborate with great teams, and keep pushing boundaries in technology.</h4>
 
 Here is my contributions so far:
+<br/>
 Projects I worked on: [Check my portfolio](https://s.id/alfanzainportfolio)
 <br/>
 Take a look my contributions on my pinned projects, too! 👇
