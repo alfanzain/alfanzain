@@ -6,9 +6,12 @@ I’m a software engineer who enjoys building scalable web applications, API ser
 
 Here is my contributions so far:
 <br/>
-Projects I worked on: [Check my portfolio](https://s.id/alfanzainportfolio)
+👉 Projects I worked on: [Check my portfolio](https://s.id/alfanzainportfolio)
 <br/>
-Take a look my contributions on my pinned projects, too! 👇
+👉 Or take a look my contributions on my pinned projects, too! 👇
+<br/>
+<br/>
+Incuding these popular open sources: <br/> - https://github.com/VoltAgent/voltagent (**3.3k** stars) <br/> - https://github.com/goravel/goravel (**4k** stars)
 <br/>
 <br/>
 You can reach me at alfanzainkp@gmail.com<br/>
