@@ -11,7 +11,9 @@ Here is my contributions so far:
 👉 Or take a look my contributions on my pinned projects, too! 👇
 <br/>
 <br/>
-Incuding these popular open sources: <br/> - https://github.com/VoltAgent/voltagent (**3.3k** stars) <br/> - https://github.com/goravel/goravel (**4k** stars)
+Incuding these popular open sources: <br/> - https://github.com/VoltAgent/voltagent (**3.3k** stars) 
+<br/> - https://github.com/goravel/goravel (**4k** stars)
+<br/> - https://github.com/yagop/node-telegram-bot-api (**9.1k** stars)
 <br/>
 <br/>
 You can reach me at alfanzainkp@gmail.com<br/>
