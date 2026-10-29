@@ -1,6 +1,6 @@
 ### Hello! I'm Alfan Zain
 
-I’m a software engineer who enjoys building scalable web applications, API services, and cloud-based solutions. <br/> Passionate about problem solving and delivering impact through technology.
+I help companies turn ideas into products people use every day.
 <br/>
 <br/>
 You can reach me at alfanzainkp@gmail.com<br/>
